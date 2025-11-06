@@ -53,5 +53,3 @@ This project demonstrates how **data visualization and analytics** can help buil
 It reflects a strong understanding of **data analysis**, **dashboard design**, and **real-world problem-solving** using Power BI.
 
 ---
-
-📂 **Repository Structure**
